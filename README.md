@@ -1,2 +1,2 @@
-# TrendPulse-Task1
+# TrendPulse-Vikas_Koppela
 Mini project
