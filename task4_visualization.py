@@ -13,7 +13,7 @@ chart3_path = directory2/"chart3_scatter.png"
 
 df = pd.read_csv(analysed_file)
 
-#Horizontal Bar chart...
+#Horizontal Bar chart....
 def barh_fig(f):
     top_scores = df.nlargest(10, "score")
     title_short = []
