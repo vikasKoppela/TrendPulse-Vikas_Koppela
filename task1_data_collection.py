@@ -77,6 +77,6 @@ with open(file_path, "w") as f:
 #Printing number of stories collected.
 print(f"Collected {len(summary)} stories. Saved to {file_path}")
 
-#Writing to print the json output
+#Printing the json output.
 #with open(file_path,"r") as fr:
 #     print(fr.read())
