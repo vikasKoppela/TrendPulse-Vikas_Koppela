@@ -30,5 +30,5 @@ df.to_csv(file_path2, index=False)
 
 print(f"Saved {len(df)} rows to {file_path2}")
 
-#Printing category summary
+#Printing category summary.
 print(df["category"].value_counts())
